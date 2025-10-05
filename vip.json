@@ -1,1 +1,25 @@
+{
+  "vip_users": [
+    {
+      "user_id": "VIP-001",
+      "start_date": "2025-10-05",
+      "period_month": 1
+    },
+    {
+      "user_id": "VIP-002",
+      "start_date": "2025-10-01",
+      "period_month": 3
+    },
+    {
+      "user_id": "VIP-003",
+      "start_date": "2025-09-25",
+      "period_month": 6
+    },
+    {
+      "user_id": "VIP-004",
+      "start_date": "2025-08-10",
+      "period_month": 12
+    }
+  ]
+}
 
