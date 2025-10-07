@@ -1,15 +1,1 @@
-{
-  "vip_users": [
-    {
-      "user_id": "A2974C1FBEBABDCD",
-      "start_date": "2025-10-05",
-      "period_month": 1
-    },
-    {
-      "user_id": "0ECC9271648C1C3A",
-      "start_date": "2025-10-01",
-      "period_month": 1
-    }
-  ]
-}
-
+{"vip_users":[{"user_id":"A2974C1FBEBABD66","period_month":1,"start_date":"2025-10-05"},{"user_id":"0ECC9271648C1C3A","period_month":1,"start_date":"2025-10-01"}]}
