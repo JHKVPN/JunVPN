@@ -2,15 +2,15 @@
   "ads": [
     {
       "type": "banner",
-      "ad_unit_id": "ca-app-pub-3940256099942544/6300978111"
+      "ad_unit_id": "ca-app-pub-6308100715319443/7836387019"
     },
     {
       "type": "rewarded",
-      "ad_unit_id": "ca-app-pub-3940256099942544/5224354917"
+      "ad_unit_id": "ca-app-pub-6308100715319443/7368611019"
     },
     {
       "type": "interstitial",
-      "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+      "ad_unit_id": "ca-app-pub-6308100715319443/8681692682"
     },
     {
       "type": "app_open",
